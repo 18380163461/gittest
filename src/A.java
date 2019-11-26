@@ -1,7 +1,7 @@
 public class A {
     private String age;
     private String name;
-    private String test3="20191126A3";
+    private String test4="20191126A4";
     public String getName() {
         return name;
     }
